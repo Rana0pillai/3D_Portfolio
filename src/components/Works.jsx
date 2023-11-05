@@ -26,7 +26,6 @@ const ProjectCard = ({ index, name, description, tags, image, source_code_link }
             alt={name}
             className="w-full h-full object-cover rounded-2xl"
           />
-          {/* 1:55:05 */}
         </div>
       </Tilt>
     </motion.div>
